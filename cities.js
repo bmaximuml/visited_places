@@ -41,7 +41,6 @@ CITIES =
    {name: 'Zadar, Croatia', latitude: 44.114880, longitude: 15.228950, radius: 3, fillKey: 'city', date: 'Jul 2016'},
    {name: 'Les Deux Alpes, France', latitude: 45.007640, longitude: 6.121930, radius: 3, fillKey: 'city', date: 'Nov 2016'},
    {name: 'Galicia, Spain', latitude: 42.756779, longitude: -7.909930, radius: 3, fillKey: 'city', date: 'Aug 2017'},
-   {name: 'Edinburgh, UK', latitude: 55.950191, longitude: -3.187550, radius: 3, fillKey: 'city', date: 'Jun 2017'},
    {name: 'Oban, UK', latitude: 56.410412, longitude: -5.469720, radius: 3, fillKey: 'city', date: 'Jul 2017'},
    {name: 'Marseille, France', latitude: 43.295021, longitude: 5.374490, radius: 3, fillKey: 'city', date: 'Dec 2017'},
    {name: 'Seret, France', latitude: 44.812860, longitude: 0.003360, radius: 3, fillKey: 'city', date: 'Aug 2018'},
@@ -83,4 +82,6 @@ CITIES =
    {name: 'Houston, TX', latitude: 29.760427, longitude: -95.369804, radius: 3, fillKey: 'city', date: 'Mar 2020'},
    {name: 'Austin, TX', latitude: 30.267153, longitude: -97.743057, radius: 3, fillKey: 'city', date: 'Mar 2020'},
    {name: 'Barcelona, Spain', latitude: 41.385063, longitude: 2.173404, radius: 3, fillKey: 'city', date: 'Aug 2020'},
+   {name: 'Birmingham, UK', latitude: 52.486244, longitude: -1.890401, radius: 3, fillKey: 'city', date: 'Nov 2021'},
+   {name: 'Edinburgh, UK', latitude: 55.950191, longitude: -3.187550, radius: 3, fillKey: 'city', date: 'Nov 2021'},
 ]
